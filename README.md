@@ -78,11 +78,11 @@
 
 ## Objectives
 1. Descriptive statistics
-    - Measure of central tendency from NumPy Array and Pandas DataFrame
+    - Measure central tendency from NumPy Array and Pandas DataFrame
         1) Mean
         2) Median
         3) Mode
-    - Measure of variability from NumPy Array and Pandas DataFrame
+    - Measure variability from NumPy Array and Pandas DataFrame
         1) Min, max and range
         2) Percentiles
         3) Variance
@@ -90,7 +90,7 @@
         5) Distribution
         6) Skewness
         7) Kurtosis
-    - Summarize using describe method
+    - Summarize data using describe method
 2. Inferental statistics
     - Correlation between pairs of data
         1) Covariance matrix
