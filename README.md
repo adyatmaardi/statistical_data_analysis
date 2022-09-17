@@ -112,3 +112,6 @@
         9) Plot the given data points and fit the regression line
         10) Predict value
 
+capture :
+[gdrive](https://drive.google.com/drive/folders/126drWOSN5SOEH3nN7CAvHNp3tr75GqgN)
+
